@@ -6,7 +6,6 @@ const Navbar = () => {
   return (
     <div>
       <NavbarBelt />
-      <NavbarBanner/>
       
     </div>
   )
